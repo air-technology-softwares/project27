@@ -1,0 +1,7 @@
+This is a very rudimentary implementation of 2D elastic collisions.
+
+Each node supposed to collide must contain a "radius" and a "mass".
+Fixed nodes are assumed to have "infinite mass"
+
+The equations should maintain constant momentum in the system (less any friction)
+
